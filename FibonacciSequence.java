@@ -1,3 +1,9 @@
+/**
+ * Calculates the nth term in the Fibonacci sequence.
+ *
+ * @param n The term number to calculate.
+ * @return The nth term in the Fibonacci sequence.
+ */
 public class FibonacciSequence {
 
     // Recursive method to calculate the nth term in the Fibonacci sequence
